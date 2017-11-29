@@ -1,1 +1,1 @@
-# javascripted30
+# javascript30
